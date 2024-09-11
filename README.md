@@ -5,7 +5,7 @@ Welcome to my corner of GitHub!
 
 
 🚀 About Me -
-I'm a software engineer driven by a passion for developing impactful software solutions by crafting **clean, scalable, and maintainable code** using modern frontend and backend tools and technologies. I constantly strive for continuous learning and improvement, embracing challenges that push my technical and problem-solving skills.
+I'm a software engineer driven by a passion for developing impactful software solutions with focus on crafting **clean, scalable, and maintainable code** using modern frontend and backend tools and technologies. I constantly strive for continuous learning and improvement, embracing challenges that push my technical and problem-solving skills.
 
 
 🛠 Skills
