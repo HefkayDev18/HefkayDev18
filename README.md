@@ -4,8 +4,8 @@ Hi there! 😄, I'm Farouk Lawal 👋
 Welcome to my corner of GitHub!
 
 
-🚀 About Me
-I'm a software engineer driven by a passion for developing impactful software solutions by crafting clean, scalable, and maintainable code using modern frontend and backend tools and technologies. I constantly strive for continuous learning and improvement, embracing challenges that push my technical and problem-solving skills.
+🚀 About Me -
+I'm a software engineer driven by a passion for developing impactful software solutions by crafting **clean, scalable, and maintainable code** using modern frontend and backend tools and technologies. I constantly strive for continuous learning and improvement, embracing challenges that push my technical and problem-solving skills.
 
 
 🛠 Skills
@@ -15,7 +15,7 @@ I'm a software engineer driven by a passion for developing impactful software so
 - **Tools:** Git, Postman, Swagger, Docker
   
 
-🌱 Currently Learning
+🌱 Currently Learning -
 I'm currently diving deep into MERN stack and python, also exploring Cloud computing technologies like Azure and AWS to take my backend skills to the next level.
 
 
@@ -25,7 +25,7 @@ I'm currently diving deep into MERN stack and python, also exploring Cloud compu
 - GitHub: https://github.com/HefkayDev18
   
 
-⚡ Fun Fact
+⚡ Fun Fact -
 When I’m not coding, you’ll probably find me geeking out over the latest tech trends, watching contents online or playing football games!
 
 
