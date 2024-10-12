@@ -9,7 +9,7 @@ I'm a software engineer driven by a passion for developing impactful software so
 
 
 🛠 Skills
-- **Languages:** C#, SQL, HTML, CSS, JavaScript, Typescript
+- **Languages:** C#, SQL, HTML, CSS, JavaScript, Typescript, Python
 - **Frameworks/Libraries:** React, .NET, .NET Core, Bootstrap, TailwindCSS
 - **Concepts:** Data Structures and Algorithms, Object-Oriented Programming
 - **Tools:** Git, Postman, Swagger, Docker
