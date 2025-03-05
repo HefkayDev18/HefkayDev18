@@ -16,7 +16,7 @@ I'm a software engineer driven by a passion for developing impactful software so
   
 
 🌱 Currently Learning -
-I'm currently diving deep into MERN stack and python, also exploring Cloud computing technologies like Azure and AWS to take my backend skills to the next level.
+I'm currently diving deep into python and machine learning, also exploring Cloud computing technologies like Azure and AWS to take my backend skills to the next level.
 
 
 🔗 Let's Connect
@@ -26,7 +26,7 @@ I'm currently diving deep into MERN stack and python, also exploring Cloud compu
   
 
 ⚡ Fun Fact -
-When I’m not coding, you’ll probably find me geeking out over the latest tech trends, watching contents online or playing football games!
+When I’m not coding, you’ll probably find me geeking out over the latest tech trends, watching contents online, and playing or watching football games!
 
 
 Thanks for stopping by! 🙌
@@ -34,7 +34,7 @@ Let’s build something awesome together! 🚀
 
 <!--- ## 📫 Contact
 🏆 What I’m Proud Of
-Project X: Built a comprehensive employee management system that streamlined HR operations by 30%.
+Project X: Built a comprehensive employee management system that streamlined HR operations.
 Open Source Contributions: Contributed to open-source projects focusing on .NET and React ecosystems.
 Certifications: Completed a series of certifications in cloud computing, full-stack development, and software architecture.
 🔭 I’m currently working on ...
