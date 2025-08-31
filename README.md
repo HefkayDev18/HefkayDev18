@@ -39,7 +39,7 @@ I constantly strive for continuous learning and improvement, embracing challenge
 ● **Front-end delivery:** delivered 95%+ of launch-critical UI for a multi-brand iGaming backoffice application.
 
 
-## 🌱 Currently Learning -
+## 🌱 Currently Learning 
 I'm currently diving deep into honing my skills in Backend and Cloud computing technologies like Azure and AWS. I also hold an interest in exploring python further and machine learning to navigate the AI/ML engineering landscape.
 
 
@@ -52,7 +52,7 @@ I'm currently diving deep into honing my skills in Backend and Cloud computing t
 ● GitHub: https://github.com/HefkayDev18
   
 
-## ⚡ Fun Fact -
+## ⚡ Fun Fact 
 When I’m not coding, you’ll probably find me at the gym, playing outdoor games (like tennis), geeking out over the latest tech trends, watching content online or playing/watching football games!
 
 
