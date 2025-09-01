@@ -40,7 +40,7 @@ I constantly strive for continuous learning and improvement, embracing challenge
 
 
 ## 🌱 Currently Learning 
-I'm currently diving deep into honing my skills in Backend and Cloud computing technologies like Azure and AWS. I also hold an interest in exploring python further and machine learning to navigate the AI/ML engineering landscape.
+I'm currently diving deeper into honing my skills in Backend and Cloud computing technologies like Azure and AWS. I also hold an interest in exploring python further and machine learning to navigate the AI/ML engineering landscape.
 
 
 ## 🔗 Let's Connect
