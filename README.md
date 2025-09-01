@@ -30,7 +30,7 @@ I constantly strive for continuous learning and improvement, embracing challenge
 
 
 
-## 🏆 What I’m Proud Of
+## 🏆 Recent Highlights
 
 ● **Sole engineering lead** for backend & infra across different environments (dev/staging/prod) that drive multiple production applications (including multi-tenant platforms) - responsible for CI/CD, releases, deployments and uptime.
 
