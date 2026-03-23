@@ -1,82 +1,97 @@
-# Hi there! 😄, I'm Farouk Lawal 👋
+# Hi there 👋, I'm Farouk Lawal
+
+Backend Engineer focused on building and operating scalable APIs, distributed systems, and the infrastructure that runs them.
+
+---
+
+## 🚀 About Me
+
+I design and maintain production backend systems that handle real-world traffic, financial workflows, and multi-tenant architectures.
+
+I also continuously refine my approach to system design, scalability, and distributed architecture through hands-on production experience.
+
+My recent work spans:
+- High-concurrency API systems (USSD + Web platforms)
+- Event-driven and asynchronous processing pipelines
+- Distributed services with strong data consistency guarantees
+- CI/CD pipelines and cloud infrastructure across multiple environments
+
+I’ve operated as the **primary backend & DevOps engineer** across multiple products, owning systems end-to-end, from architecture to deployment and production stability.
+
+---
+
+## 🛠 Core Stack
+
+**Backend**
+- C# · .NET · ASP.NET Core · REST APIs  
+
+**Systems & Architecture**
+- Distributed Systems · Microservices · Event-Driven Architecture · Modular Monoliths · Multi-Tenant Systems  
+
+**Cloud & DevOps**
+- AWS · Azure · Docker · CI/CD (Azure DevOps)  
+
+**Data & Infrastructure**
+- MySQL · MongoDB · Redis · Nginx · Linux  
+
+**Additional**
+- Python · React · TypeScript · HTML/CSS/JavaScript · Tailwind CSS
+
+---
+
+## 🧠 Selected Work
+
+### 🔹 Media Raffles Platform (iGaming)
+- Designed and built backend systems for USSD & web-based raffle operations  
+- Implemented asynchronous workflows using queues and background workers  
+- Ensured high-concurrency handling and fault-tolerant processing in production  
+
+### 🔹 Multi-Tenant Billing & Invoice System
+- Built fault-tolerant invoice generation pipelines with retry logic and recovery  
+- Designed reconciliation engine ensuring financial consistency and auditability  
+
+### 🔹 CI/CD & Infrastructure (15+ Applications)
+- Architected deployment pipelines across multiple stacks  
+- Enabled consistent releases, rollback safety, and environment isolation  
+
+---
+
+## ⚙️ Engineering Focus
+
+- System design & scalability  
+- Reliability & fault tolerance  
+- Data consistency in distributed systems  
+- Production debugging & performance optimization  
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced AWS architecture  
+- Kubernetes & cloud-native systems  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/lawalfarouk/
+- Email: hefkay.lawal2019@gmail.com
+
+---
+
+## 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HefkayDev18&theme=github-dark)
+
+---
+
+## ⚡ Note
+
+Most production systems are private, but I'm working on publishing representative architecture-focused projects.
 
 
-Welcome to my corner of GitHub! — I build and maintain backend systems, APIs and the infrastructure that runs them.
 
 
-## 🚀 About Me 
-Full Stack Software Engineer with a strong focus on **Backend** and **DevOps**, currently engineering infrastructure and APIs that power high-growth products and distributed systems. 
-
-I constantly strive for continuous learning and improvement, embracing challenges that push my technical and problem-solving skills.
-
-
-## 🛠 Skills
-
-● **Proficient**
-
-    - Languages: C# · SQL · HTML/CSS/JavaScript  
-    - Platform & Frameworks: .NET / ASP.NET Core  
-    - DevOps & Infra: Docker · Azure DevOps (YAML) · CI/CD · Azure Resource Manager · Microsoft Azure
-    - Datastores & Services: MySQL · Nginx 
-    - Tooling: Git · SSH · PowerShell / Bash · REST APIs
-
-● **Familiar**
-
-    - React · Python · TypeScript · MongoDB ·  Bootstrap · Tailwind CSS · C/C++ · Redis  
-
-● **Learning**
-
-    - AWS (EC2, S3, Lambda, ECS)
-
-
-
-## 🏆 Recent Highlights
-
-● **Sole engineering lead** for backend & infra across different environments (dev/staging/prod) that drive multiple production applications (including multi-tenant platforms) - responsible for CI/CD, releases, deployments and uptime.
-
-● **Architected and maintaining CI/CD pipelines across multiple applications**, transitioning legacy per environment builds into single build + multi-release pipelines, enabling safe rollbacks, externalized configurations and immutability.
-
-● **Front-end delivery:** delivered 95%+ of launch-critical UI for a multi-brand iGaming backoffice application.
-
-
-## 🌱 Currently Learning 
-I'm currently diving deeper into honing my skills in Backend and Cloud computing technologies like Azure and AWS. I also hold an interest in exploring python further and machine learning to navigate the AI/ML engineering landscape.
-
-
-## 🔗 Let's Connect
-
-● Email: hefkay.lawal2019@gmail.com
-
-● LinkedIn: [Farouk Lawal](https://www.linkedin.com/in/lawalfarouk/)
-
-● GitHub: https://github.com/HefkayDev18
-  
-
-## ⚡ Fun Fact 
-When I’m not coding, you’ll probably find me at the gym, playing outdoor games (like tennis), geeking out over the latest tech trends, watching content online or playing/watching football games!
-
-
-Thanks for stopping by! 🙌
-Let’s build something awesome together that scales! 🚀
-
-<!--- ## 📫 Contact
-🏆 What I’m Proud Of
-Project X: Built a comprehensive employee management system that streamlined HR operations.
-Open Source Contributions: Contributed to open-source projects focusing on .NET and React ecosystems.
-Certifications: Completed a series of certifications in cloud computing, full-stack development, and software architecture.
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me:
-## 📂 Projects to check (links coming soon)
-- **Veiligh — EHS Platform** — backend, CI/CD & infra (primary engineer). *(Link / demo available on request)*  
-- **Attachment Service (sample)** — Azure Blob + soft-delete pattern (repo coming).  
-- **CI/CD artifact (sanitized)** — sample pipeline YAML showing build → push → release flow (private gist available).  
-- **Permission middleware (snippet)** — JWT + dynamic permission resolver example (sanitized).-->
 
 
 
