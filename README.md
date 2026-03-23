@@ -74,12 +74,12 @@ I’ve operated as the **primary backend & DevOps engineer** across multiple pro
 - Email: hefkay.lawal2019@gmail.com
 
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![Farouk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HefkayDev18&show_icons=true&theme=github_dark&hide_border=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HefkayDev18&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HefkayDev18&layout=compact&theme=github_dark&hide_border=true)-->
 
 
 ## 📈 Activity
@@ -87,7 +87,7 @@ I’ve operated as the **primary backend & DevOps engineer** across multiple pro
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HefkayDev18&theme=github-dark)
 
 
-![Streak Stats](https://streak-stats.demolab.com?user=HefkayDev18&theme=github-dark&hide_border=true)
+<!--![Streak Stats](https://streak-stats.demolab.com?user=HefkayDev18&theme=github-dark&hide_border=true)-->
 
 
 ## ⚡ Note
