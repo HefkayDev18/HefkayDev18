@@ -29,7 +29,7 @@ I’ve operated as the **primary backend & DevOps engineer** across multiple pro
 - Distributed Systems · Microservices · Event-Driven Architecture · Modular Monoliths · Multi-Tenant Systems  
 
 **Cloud & DevOps**
-- AWS · Azure · Docker · CI/CD (Azure DevOps)  
+- AWS · Azure · Docker · CI/CD (Azure DevOps, Github Actions)  
 
 **Data & Infrastructure**
 - MySQL · MongoDB · Redis · Nginx · Linux  
@@ -49,7 +49,7 @@ I’ve operated as the **primary backend & DevOps engineer** across multiple pro
 - Built fault-tolerant invoice generation pipelines with retry logic and recovery  
 - Designed reconciliation engine ensuring financial consistency and auditability  
 
-### 🔹 CI/CD & Infrastructure (15+ Applications)
+### 🔹 CI/CD & Infrastructure (15+ Services)
 - Architected deployment pipelines across multiple stacks  
 - Enabled consistent releases, rollback safety, and environment isolation  
 
